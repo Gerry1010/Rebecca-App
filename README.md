@@ -61,7 +61,7 @@ Please ensure that XAMPP Control Panel Version 3.2.4. or latest is install, to h
   
   Note:
     + Syntax Error will provide the accounts for the first time using the application, teach how to use them and where to use them. After this, the owner will decide what to do with them: to keep using the accounts or modified them.
-
+    
  ---------------------------------------------------------------
  
  *How to use Rebecca App
@@ -72,11 +72,10 @@ Please ensure that XAMPP Control Panel Version 3.2.4. or latest is install, to h
       - Microsoft Edge 44.18362.1.0 or earlier
       - Safari 12 or earlier
       - Opera 64.0.03417.92 or earlier
-   +  To use the aplication  
+   +  To use the aplication write the next IP Adress: Localhost//127.0.0.1:5000.
+   + Once the browser accept the URL and show the application you will navigate through the application.
  
- Localhost//127.0.0.1:5000
- 
- The main functions of the web app are:
+ *Main functions of Rebecca app are:
  
  1. Create and edit a client profile
  2. Edit and show the order status
@@ -87,11 +86,24 @@ Please ensure that XAMPP Control Panel Version 3.2.4. or latest is install, to h
  7. Email work order
  8. Create, delete, and create accounts.
  
- The main menu consists of 5 principal buttons: Orders, WorK Summary, Clients, Employees, and Inventory. Each one has its own functions as stated in the name.
+ The main menu consists of 5 principal options: Orders, WorK Summary, Clients, Employees, and Inventory. Each one has its own  functions as stated in the name. This options will be available for any account (technician, secretary, owner). 
+ Notes:
+  - If you have the owner account, you will have access to an extra option, allowing you to manage the accounts.
+  - If a client want to know about his order status, he/she would have access just to the traking order option. It is out of the system, so he/she will not have access to critical information.
  
  ---------------------------------------------------------------
-       
-DOCUMENT NUMBER:	RELEASE/REVISION:	RELEASE/REVISION DATE:
+ 
+  DOCUMENT NUMBER	     RELEASE/REVISION  	  RELEASE/REVISION DATE
+- Vision and Scope          4.2                   6/12/2019 
+- User Personas              -                    6/12/2019
+- Use Cases                 2.3                   6/12/2019
+- SRS                       2.8                   6/12/2019
+- Traceability Matrix        -                    6/12/2019
+- Agreement                  -                    30/08/2019
+- System Modeling           2.1                   6/12/2019
+- System Architecture       1.5                   6/12/2019
+
+ ---------------------------------------------------------------
 
 
 
